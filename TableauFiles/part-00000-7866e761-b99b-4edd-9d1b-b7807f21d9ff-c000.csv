@@ -1,0 +1,99 @@
+DAY_OF_WEEK,AIRLINE_NAME,COUNT
+1,Alaska Airlines Inc.,25082
+2,Alaska Airlines Inc.,24165
+3,Alaska Airlines Inc.,24395
+4,Alaska Airlines Inc.,25477
+5,Alaska Airlines Inc.,25135
+6,Alaska Airlines Inc.,23574
+7,Alaska Airlines Inc.,24693
+1,American Airlines Inc.,106225
+2,American Airlines Inc.,103401
+3,American Airlines Inc.,106503
+4,American Airlines Inc.,108168
+5,American Airlines Inc.,106374
+6,American Airlines Inc.,92264
+7,American Airlines Inc.,103049
+1,American Eagle Airlines Inc.,43872
+2,American Eagle Airlines Inc.,42970
+3,American Eagle Airlines Inc.,43450
+4,American Eagle Airlines Inc.,44314
+5,American Eagle Airlines Inc.,43869
+6,American Eagle Airlines Inc.,34246
+7,American Eagle Airlines Inc.,41911
+1,Atlantic Southeast Airlines,86979
+2,Atlantic Southeast Airlines,83541
+3,Atlantic Southeast Airlines,85001
+4,Atlantic Southeast Airlines,87126
+5,Atlantic Southeast Airlines,86299
+6,Atlantic Southeast Airlines,63484
+7,Atlantic Southeast Airlines,79547
+1,Delta Air Lines Inc.,131682
+2,Delta Air Lines Inc.,128412
+3,Delta Air Lines Inc.,129943
+4,Delta Air Lines Inc.,132064
+5,Delta Air Lines Inc.,130234
+6,Delta Air Lines Inc.,99365
+7,Delta Air Lines Inc.,124181
+1,Frontier Airlines Inc.,13228
+2,Frontier Airlines Inc.,12991
+3,Frontier Airlines Inc.,13015
+4,Frontier Airlines Inc.,13424
+5,Frontier Airlines Inc.,13242
+6,Frontier Airlines Inc.,11878
+7,Frontier Airlines Inc.,13058
+1,Hawaiian Airlines Inc.,10841
+2,Hawaiian Airlines Inc.,10516
+3,Hawaiian Airlines Inc.,10796
+4,Hawaiian Airlines Inc.,11031
+5,Hawaiian Airlines Inc.,11662
+6,Hawaiian Airlines Inc.,10559
+7,Hawaiian Airlines Inc.,10867
+1,JetBlue Airways,38902
+2,JetBlue Airways,37753
+3,JetBlue Airways,37749
+4,JetBlue Airways,39470
+5,JetBlue Airways,38801
+6,JetBlue Airways,35631
+7,JetBlue Airways,38742
+1,Skywest Airlines Inc.,87484
+2,Skywest Airlines Inc.,84054
+3,Skywest Airlines Inc.,86211
+4,Skywest Airlines Inc.,87902
+5,Skywest Airlines Inc.,86611
+6,Skywest Airlines Inc.,71767
+7,Skywest Airlines Inc.,84324
+1,Southwest Airlines Co.,187228
+2,Southwest Airlines Co.,188007
+3,Southwest Airlines Co.,188243
+4,Southwest Airlines Co.,187794
+5,Southwest Airlines Co.,185731
+6,Southwest Airlines Co.,151771
+7,Southwest Airlines Co.,173081
+1,Spirit Air Lines,16794
+2,Spirit Air Lines,16359
+3,Spirit Air Lines,16493
+4,Spirit Air Lines,17054
+5,Spirit Air Lines,16991
+6,Spirit Air Lines,16844
+7,Spirit Air Lines,16844
+1,US Airways Inc.,29391
+2,US Airways Inc.,28496
+3,US Airways Inc.,28309
+4,US Airways Inc.,30160
+5,US Airways Inc.,30246
+6,US Airways Inc.,24389
+7,US Airways Inc.,27724
+1,United Air Lines Inc.,78549
+2,United Air Lines Inc.,74945
+3,United Air Lines Inc.,76718
+4,United Air Lines Inc.,79126
+5,United Air Lines Inc.,77634
+6,United Air Lines Inc.,57675
+7,United Air Lines Inc.,71076
+1,Virgin America,9286
+2,Virgin America,8990
+3,Virgin America,9071
+4,Virgin America,9411
+5,Virgin America,9380
+6,Virgin America,7098
+7,Virgin America,8667
