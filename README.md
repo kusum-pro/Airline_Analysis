@@ -1,5 +1,5 @@
 # Airline_Analysis
-Leveraging big data tools for airline data analysis using Spark tools
+Leveraging big data tools for airline data analysis.
 
 # Methodology Used
 The methodology involved using PySpark, a powerful distributed computing framework, to load and preprocess the data. Various data preprocessing techniques such as cleaning, transformation, and aggregation were applied to the data using PySpark's extensive data processing capabilities.
